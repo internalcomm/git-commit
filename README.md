@@ -67,7 +67,7 @@ The tool automatically:
 ## 🛠 Installation
 
 
-### Linux / macOS (Recommended)
+### Linux / MacOS (Recommended)
 
 
 ```bash
